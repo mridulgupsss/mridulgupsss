@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋, I'm Mridul</h1>
-<h3 align="center">Passionate about writing code, building softwares, automating stuff and solving problems.</h3>
+<h3 align="center">Passionate about writing code, automating stuff and solving problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridulgupsss&label=Profile%20views&color=0e75b6&style=flat" alt="mridulgupsss" /> </p>
 
