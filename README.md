@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mridul Gupta</h1>
-<h3 align="center">I am 3rd-year undergrad at IIIT Nagpur pursuing my B.Tech in Computer Science and Engineering. I am an aspiring Software Engineer. I love Problem Solving and I have solved about 800+ problems on various coding platforms. My highest rating on Codechef is 1878 (4 star) and on Codeforces, it is 1308 (pupil).</h3>
+<h3 align="center">I am 3rd-year undergrad at IIIT Nagpur pursuing my B.Tech in Computer Science and Engineering. I am an aspiring Software Engineer. I am currently looking for internship opportunities in SDE role. I love Problem Solving and I have solved about 900+ problems on various coding platforms.
+</h3>
 
 - 📄 Resume [https://drive.google.com/drive/u/0/folders/1dBH2BXd8ZCC4t0Aph3aP455aQyt_sqcc](https://drive.google.com/drive/u/0/folders/1dBH2BXd8ZCC4t0Aph3aP455aQyt_sqcc)
 
 - 👨‍💻 Linked In [https://www.linkedin.com/in/mridul-gupta-0aa3021b1/](https://www.linkedin.com/in/mridul-gupta-0aa3021b1/)
 
-- 📫 Mail me at : **bt20cse092@iiitn.ac.in**
+- 📫 Mail me at : **gmridul556@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
