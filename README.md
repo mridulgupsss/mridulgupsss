@@ -4,7 +4,7 @@
 💡 &nbsp; Explored JavaScript, Node.js, Express.js, MySQL, PostgreSQL, Web Scraping, Grafana, Kafaka, C/C++, Golang, FileZilla, AiSensy, Diagflow.\
 🌱 &nbsp; I love to solve problems using different technologies.\
 📫 &nbsp; Reach me at **gmridul556@gmail.com** !\
-📄 &nbsp; Portfolio: [Portfolio Link]([https://drive.google.com/drive/u/0/folders/1dBH2BXd8ZCC4t0Aph3aP455aQyt_sqcc](https://mridulgupsss.github.io/Portfolio-Website/))\
+📄 &nbsp; Portfolio: [https://mridulgupsss.github.io/Portfolio-Website/](https://mridulgupsss.github.io/Portfolio-Website)\
 📄 &nbsp; Resume: [https://drive.google.com/drive/u/0/folders/1dBH2BXd8ZCC4t0Aph3aP455aQyt_sqcc](https://drive.google.com/drive/u/0/folders/1dBH2BXd8ZCC4t0Aph3aP455aQyt_sqcc)\
 👨‍💻 &nbsp; LinkedIn: [https://www.linkedin.com/in/mridul-gupta-0aa3021b1/](https://www.linkedin.com/in/mridul-gupta-0aa3021b1/)
 
