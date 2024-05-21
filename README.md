@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mridul Gupta</h1>
 
 🎓 &nbsp; Graduated from IIIT Nagpur majoring in Computer Science & Engineering.\
-💡 &nbsp; Explored JavaScript, Node.js, Express.js, MySQL, PostgreSQL, Web Scraping, Grafana, Kafaka, C/C++, Golang, FileZilla, AiSensy, Diagflow.\
+💡 &nbsp; Explored JavaScript, Node.js, Express.js, MySQL, PostgreSQL, Docker, Redis, Kafaka, Web Scraping, Grafana, C/C++, Golang, FileZilla, AiSensy, Diagflow.\
 🌱 &nbsp; I love to solve problems using different technologies.\
 📫 &nbsp; Reach me at **gmridul556@gmail.com** !\
 📄 &nbsp; Portfolio: [https://mridulgupsss.github.io/Portfolio-Website/](https://mridulgupsss.github.io/Portfolio-Website)\
