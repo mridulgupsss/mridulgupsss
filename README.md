@@ -2,7 +2,7 @@
 
 🎓 &nbsp; Graduated from IIIT Nagpur (BTech in Computer Science & Engineering).\
 💡 &nbsp; Explored JavaScript, Node.js, Express.js, MySQL, PostgreSQL, Docker, Kubernetes, Redis, Kafaka, Web Scraping, Grafana, C/C++, Golang, FileZilla, AiSensy, Diagflow.\
-🌱 &nbsp; I love to solve problems using different technologies.\
+🌱 &nbsp; I am passionate about backend development, and I specialize in creating scalable and efficient architectures.\
 📫 &nbsp; Reach me at **gmridul556@gmail.com** !\
 📄 &nbsp; Portfolio: [https://mridulgupsss.github.io/Portfolio-Website/](https://mridulgupsss.github.io/Portfolio-Website)\
 📄 &nbsp; Resume: [https://drive.google.com/drive/u/0/folders/1dBH2BXd8ZCC4t0Aph3aP455aQyt_sqcc](https://drive.google.com/drive/u/0/folders/1dBH2BXd8ZCC4t0Aph3aP455aQyt_sqcc)\
