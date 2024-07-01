@@ -6,7 +6,10 @@
 📫 &nbsp; Reach me at **gmridul556@gmail.com** !\
 📄 &nbsp; Portfolio: [https://mridulgupsss.github.io/Portfolio-Website/](https://mridulgupsss.github.io/Portfolio-Website)\
 📄 &nbsp; Resume: [https://drive.google.com/drive/u/0/folders/1dBH2BXd8ZCC4t0Aph3aP455aQyt_sqcc](https://drive.google.com/drive/u/0/folders/1dBH2BXd8ZCC4t0Aph3aP455aQyt_sqcc)\
-👨‍💻 &nbsp; LinkedIn: [https://www.linkedin.com/in/mridul-gupta-0aa3021b1/](https://www.linkedin.com/in/mridul-gupta-0aa3021b1/)
+👨‍💻 &nbsp; LinkedIn: [https://www.linkedin.com/in/mridul-gupta-0aa3021b1/](https://www.linkedin.com/in/mridul-gupta-0aa3021b1/)\
+👨‍💻 &nbsp; Medium: [https://medium.com/@mridulgupsss](https://medium.com/@mridulgupsss)\
+👨‍💻 &nbsp; Hashnode: [https://mridulgupsss.hashnode.dev/](https://mridulgupsss.hashnode.dev/)
+
 
 
 
